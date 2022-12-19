@@ -1,0 +1,58 @@
+/* index styling */
+#indexBody {
+    background-color: beige;
+}
+
+.index.h1 {
+    color: orange;
+    background-color: rgba(240, 240, 174, 0.852);
+    font-size: 114px;
+}
+
+.index.list {
+    font-size: 40px;
+    background-color: beige;
+    color: orange;
+}
+
+/* couscous styling*/
+#couscousBody {
+    background-color: khaki;
+}
+
+.couscous.heading {
+    color: brown;
+}
+
+.h2,.h3 {
+    text-decoration: underline;     /* will underline for every page */
+}
+
+/* surf page */
+
+#surfBody {
+    background-color: rgb(7, 158, 158);
+}
+
+.surf.heading {
+    color: purple;
+}
+
+#steaklobster {
+    height: 600px;
+    width: auto;
+}
+
+/* molokheya page */
+
+#molokheyaBody {
+    background-color: darkgreen;
+}
+
+.molokheya.heading, .molokheya.list {
+    color: bisque;
+}
+
+#molokheyaParagraph {
+    color: bisque;
+}
